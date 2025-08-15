@@ -11,8 +11,8 @@ Mi enfoque proactivo, mi capacidad para resolver problemas complejos y mi experi
 
 ## Formación
 
-Ingeniero Civil en Informática: Universidad Adventista de Chile (2012-2016).
-Diplomado en Ciberseguridad y Ciberdefensa: Universidad Autónoma de Chile (2020).
+Ingeniero Civil en Informática: Universidad Adventista de Chile.
+Diplomado en Ciberseguridad y Ciberdefensa: Universidad Autónoma de Chile.
 Diseño y Programación Web: AIEP.
 
 ## 📫 Contacto
