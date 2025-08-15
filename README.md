@@ -2,7 +2,7 @@
 
 **Ingeniero Civil en Informática**
 
-Desarrollador FullStack de Chile, Apasionado por la ciberseguridad y la administración de plataformas. Me dedico a la gestión de la seguridad y el fortalecimiento de servidores en entornos críticos, aplicando buenas prácticas para proteger la infraestructura digital.
+Desarrollador FullStack de Chile, Apasionado por la ciberseguridad, el desarrallo web y la administración de plataformas. Me dedico a la gestión de la seguridad y el fortalecimiento de servidores en entornos críticos, aplicando buenas prácticas para proteger la infraestructura digital.
 Mi formación académica combina la ingeniería con una especialización en ciberseguridad, lo que me ha permitido desarrollar una perspectiva integral en mi trabajo.
 
 Durante mi trayectoria en el mundo laboral he generado experiencia profesionales vinculadas con el área de Soporte Técnico específicamente en configuración y mantenimiento de equipos, además de gestionar la administración de plataformas en la Universidad Adventista de Chile (UNACH).
