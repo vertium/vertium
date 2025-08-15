@@ -10,6 +10,7 @@ Durante mi trayectoria en el mundo laboral he generado experiencia profesionales
 Mi enfoque proactivo, mi capacidad para resolver problemas complejos y mi experiencia en la protección de sistemas hacen que valga la pena contactarme para cualquier desafío en el ámbito de la ciberseguridad.
 
 ## Formación
+
 Ingeniero Civil en Informática: Universidad Adventista de Chile (2012-2016).
 Diplomado en Ciberseguridad y Ciberdefensa: Universidad Autónoma de Chile (2020).
 Diseño y Programación Web: AIEP.
