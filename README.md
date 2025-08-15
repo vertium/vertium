@@ -14,7 +14,7 @@ Ingeniero Civil en Informática: Universidad Adventista de Chile (2012-2016).
 Diplomado en Ciberseguridad y Ciberdefensa: Universidad Autónoma de Chile (2020).
 Diseño y Programación Web: AIEP.
 
-## Contacto
+## 📫 Contacto
 <div align="left">
   <a href="https://www.linkedin.com/in/matias-saavedra-gajardo-18b660184" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
